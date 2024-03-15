@@ -1,7 +1,3 @@
 ultralytics==8.0.232
-streamlit
-numpy
-cv2
-math
-os
-pandas
+streamlit==1.32.2
+numpy==1.26.4
