@@ -1,4 +1,4 @@
-ultralytics==8.0.0
+ultralytics==8.0.232
 streamlit
 numpy
 cv2
