@@ -1,0 +1,7 @@
+ultralytics
+streamlit
+numpy
+cv2
+math
+os
+pandas
